@@ -1,2 +1,2 @@
 # Firebase-MLKitApp
-This is android app which uses firebase MLKit for machine learning
+This is android app which uses firebase MLKit Machine Learning API's
